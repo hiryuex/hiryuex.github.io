@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+**NOMBRE:** JEFFERSON GAINZA CORNEJO
 
-You can use the [editor on GitHub](https://github.com/hiryuex/hiryuex.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## TAREA DE CRIPTOGRAFIA 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Definición criptografía
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Crear una pagina Github , inlcuir el chatbot y  dar definición de criptografía usando markdown
 
-```markdown
-Syntax highlighted code block
+## DEFINICIÓN DE CRIPTOGRAFÍA
 
-# Header 1
-## Header 2
-### Header 3
+La criptografía es la técnica o disciplina que permite escribir apelando a un código oculto. De esta forma, quien no conoce la clave para descifrar el mensaje no puede acceder a su contenido.
 
-- Bulleted
-- List
+A través de la criptografía, se modifica el código lingüístico habitual recurriendo a un cifrado o a una codificación diferente. Esto hace que la comunicación se vuelva ininteligible para quien carece del conocimiento necesario para interpretarla.
 
-1. Numbered
-2. List
+Lo que busca la criptografía, de este modo, es garantizar la confidencialidad del mensaje. Muchas veces se recurre a la matemática para lograr el encriptado, una posibilidad que se expandió gracias a la informática.
 
-**Bold** and _Italic_ and `Code` text
+![1](https://definicion.de/wp-content/uploads/2020/01/criptografia.jpg)
 
-[Link](url) and ![Image](src)
-```
+## CHATBOT DIALOGFLOW
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hiryuex/hiryuex.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
+<df-messenger
+  intent="WELCOME"
+  chat-title="Hiryuex"
+  agent-id="ef201c5e-f643-4100-bc49-95c2bfb154cf"
+  language-code="es"
+></df-messenger>
