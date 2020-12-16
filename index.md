@@ -13,7 +13,7 @@ Lo que busca la criptografía, de este modo, es garantizar la confidencialidad d
 ![1](https://definicion.de/wp-content/uploads/2020/01/criptografia.jpg)
 ## CHATBOT DIALOGFLOW
 
-<center><script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script></center>
+<script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
 <df-messenger
   intent="WELCOME"
   chat-title="Hiryuex"
