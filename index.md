@@ -1,21 +1,10 @@
 **NOMBRE:** JEFFERSON GAINZA CORNEJO
 
+![1](https://scontent.fgye6-1.fna.fbcdn.net/v/t1.0-9/29063707_1592587424192882_278714665654026240_o.jpg?_nc_cat=105&ccb=2&_nc_sid=09cbfe&_nc_ohc=lnU6SPeS8r0AX_aVqR_&_nc_ht=scontent.fgye6-1.fna&oh=2d27c25f34b9bc8f03a365729bab3a5c&oe=6000EFE4)
+
 ## TAREA DE CRIPTOGRAFIA 
 
-## Definición criptografía
-
-
 Crear una pagina Github , inlcuir el chatbot y  dar definición de criptografía usando markdown
-
-## DEFINICIÓN DE CRIPTOGRAFÍA
-
-La criptografía es la técnica o disciplina que permite escribir apelando a un código oculto. De esta forma, quien no conoce la clave para descifrar el mensaje no puede acceder a su contenido.
-
-A través de la criptografía, se modifica el código lingüístico habitual recurriendo a un cifrado o a una codificación diferente. Esto hace que la comunicación se vuelva ininteligible para quien carece del conocimiento necesario para interpretarla.
-
-Lo que busca la criptografía, de este modo, es garantizar la confidencialidad del mensaje. Muchas veces se recurre a la matemática para lograr el encriptado, una posibilidad que se expandió gracias a la informática.
-
-![1](https://definicion.de/wp-content/uploads/2020/01/criptografia.jpg)
 
 ## CHATBOT DIALOGFLOW
 
